@@ -1,0 +1,1 @@
+location.replace('bin/init.html')
